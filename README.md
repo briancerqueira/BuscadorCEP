@@ -5,7 +5,7 @@
 
 ```bash
 # clonar repositório
-git clone https://github.com/Opseua/M3-GRU_Sendo-Servido
+git clone https://github.com/briancerqueira/BuscadorCEP
 
 # instalar dependências
 npm install
